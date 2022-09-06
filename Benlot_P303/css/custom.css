@@ -1,0 +1,131 @@
+h1{
+	font-size: 50px;
+	position: absolute; bottom: 60%; right: 20%;
+	color: white;
+}
+input{
+	background-color: none;
+	border-radius: 50px;
+	border-color: white;
+	background: url(img/bg.jpg) no-repeat;
+	font-family: TIMES NEW ROMAN;
+	font-size: 25px;
+	color: white;
+	width: 150px;
+	position: relative; top:300px; left: 500px;
+	
+}
+#text input{
+	position: relative; top: 200px; left: 560px;
+	border-radius: 5px;
+	width: 11%;
+}
+center{
+	position: relative; top: 20%;
+}
+
+h3{
+	font-size: 30px;
+	color: white;
+	position: absolute; top: 120px; right: 42%;
+}
+label{
+	font-family: TIMES NEW ROMAN;
+	font-size: 20px;
+	color: white;
+	position: relative; top: 195px;
+}
+
+a:link, a:visited {
+  background-color: white;
+  background: url(img/bg.jpg) no-repeat;
+  color: black;
+  border: 2px solid white;
+  border-radius: 20px;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  position: absolute; top: 5%;
+}
+
+a:hover, a:active {
+  background-color: red;
+  color: white;
+}
+
+#btn a{
+	border: 2px solid white;
+	position: absolute; top: 505px; right: 590px;
+}
+#bck a{
+      border:2px solid white; 
+      position :absolute; top: 560px; right: 585px;
+}
+h2{
+	font-size: 60px;
+	color: white;
+	position: absolute; top: 10%; right: 40%;
+}
+
+table{
+	font-family: TIMES NEW ROMAN;
+	font-size: 30px;
+	color: white;
+	position: absolute; right: 105px; top: 200px;
+}
+#home a{
+	border: 2px solid white;
+	position: absolute; top: 550px; right: 600px;
+}
+
+h4{
+	font-size: 45px;
+	color: white;
+	position: absolute; top: 100px; right: 350px;
+}
+#name input{
+	font-size: 20px;
+	position: relative; top: 260px; left: 685px;
+	border-radius: 5px;
+	width: 14%;
+}
+#address input{
+	font-size: 20px;
+	position: relative; top: 270px; left: 685px;
+	border-radius: 5px;
+	width: 14%;
+}
+#contact input{
+	font-size: 20px;
+	position: relative; top: 280px; left: 685px;
+	border-radius: 5px;
+	width: 14%;
+}
+#temp input{
+	font-size: 20px;
+	position: relative; top: 290px; left: 685px;
+	border-radius: 5px;
+	width: 14%;
+}
+
+#user h3{
+	font-size: 25px;
+	position: absolute; top: 242px; left: 420px;
+}
+#add h3{
+	font-size: 25px;
+	position: absolute; top: 283px; left: 420px;
+}
+#numb h3{
+	font-size: 25px;
+	position: absolute; top: 325px; left: 420px;
+}
+#tempe h3{
+	font-size: 25px;
+	position: absolute; top: 365px; left: 420px;
+}
+#sub a{
+	border: 2px solid white;
+	position: absolute; top: 500px; right:570px;
+}
